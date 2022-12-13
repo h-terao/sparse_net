@@ -5,9 +5,10 @@ The sparse coding algorithm built on JAX for my report.
 ## Requirements
 - jax, jaxlib
 - chex
-- einops
+- tqdm
+- matplotlib
 - scipy
-- absl-py
+- python-fire
 
 ## Usage
 1. Download image.mat from http://www.rctn.org/bruno/sparsenet/
